@@ -1,0 +1,6 @@
+[submodule "themes/hugo-microblog"]
+	path = themes/hugo-microblog
+	url = https://github.com/RosemaryOrchard/microblog-theme.git
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
