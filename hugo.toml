@@ -1,6 +1,6 @@
-baseURL = 'https://www.germanflores.com/'
+baseURL = "/"
 languageCode = 'en-us'
 title = 'Germán Flores'
-
+pagination.pagerSize = 5
 # 
 theme = 'hugo-bearblog'
