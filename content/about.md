@@ -4,4 +4,4 @@ date= 2025-04-25
 draft= false
 +++
 
-This is my about page.
+My name is Germán Flores
