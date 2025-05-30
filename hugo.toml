@@ -1,4 +1,43 @@
+# Base URL used when generating links to your pages
+# Set to the URL for your site
 baseURL = "/"
-languageCode = "en-us"
+
+# Basic metadata configuration
 title = "Germán Flores"
+author = "Germán Flores"
+copyright = "Germán Flores"
+languageCode = "en-US"
+
+# Generate a robots.txt for SEO
+enableRobotsTXT = false
+
+# The name of the theme
 theme = "hugo-bearblog"
+
+[params]
+# The hugo-bearblog theme will, by default, inject a made-with-line at the bottom of the page.
+# You can turn it off, but we would really appreciate if you don’t :-).
+hideMadeWithLine = true
+
+# By default, this theme displays dates with a format like "02 Jan, 2006", but
+# you can customize it by setting the `dateFormat` param in your site's config
+# file. See [Hugo's Format function docs](https://gohugo.io/functions/format/)
+# for details. An example TOML config that uses [ISO
+# 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
+dateFormat = "2006-01-02"
+
+# Configure markup highlighter to match "Bearblog" aesthetics, see
+# https://gohugo.io/configuration/markup/#highlight
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
+
+# The "description" of your website. This is used in the meta data of your generated html.
+description = "Website of German Flores, Chicago Illinois"
+
+# The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+# Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
+#favicon = "images/favicon.png"
