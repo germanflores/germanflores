@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Germán Flores</title>
-    <link>//localhost:1313/posts/</link>
+    <link>--base-url/posts/</link>
     <description>Recent content in Posts on Germán Flores</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Germán Flores</copyright>
     <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="--base-url/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Principles of High Reliability Organizations</title>
-      <link>//localhost:1313/posts/2025/04/five-principles-of-high-reliability-organizations/</link>
+      <link>--base-url/posts/2025/04/five-principles-of-high-reliability-organizations/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2025/04/five-principles-of-high-reliability-organizations/</guid>
+      <guid>--base-url/posts/2025/04/five-principles-of-high-reliability-organizations/</guid>
       <description>&lt;p&gt;Angi English @Carolinagal14 explains the five principles of high reliability organizations, the principles can relate to software development teams.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://medium.com/homeland-security/for-want-of-a-nail-learning-from-high-reliability-organizations-32d0c1995bc2&#34;&gt;https://medium.com/homeland-security/for-want-of-a-nail-learning-from-high-reliability-organizations-32d0c1995bc2&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Test Post</title>
-      <link>//localhost:1313/posts/2025/04/test-post/</link>
+      <link>--base-url/posts/2025/04/test-post/</link>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2025/04/test-post/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/chicago-lake-2025-05-18.jpeg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
+      <guid>--base-url/posts/2025/04/test-post/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;--base-url/images/chicago-lake-2025-05-18.jpeg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
