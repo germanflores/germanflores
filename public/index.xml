@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Germán Flores</copyright>
-    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
@@ -15,6 +15,13 @@
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;My name is Germán Flores&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Team Health Surveys</title>
+      <link>http://localhost:1313/posts/2025/05/team-health-surveys/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/05/team-health-surveys/</guid>
+      <description>&lt;h1 id=&#34;team-health-surveys&#34;&gt;Team Health Surveys&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/team-health-surveys-across-time.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;If you are a leader in a software development team, how do know the team is doing well?&lt;/p&gt;&#xA;&lt;p&gt;If you have done the work to establish a good working environment for the team you can see it and hear it in team conversations, people enjoy being part of the team and others want to join your team. Keep reading if you think there&amp;rsquo;s room for improvement in your team.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Five Principles of High Reliability Organizations</title>
