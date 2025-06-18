@@ -1,6 +1,6 @@
 +++
 title= "Cross Team Collaboration"
-date= 2025-04-25
+date= 2025-06-18
 tags= ["post"]
 draft= false
 +++
