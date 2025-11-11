@@ -5,7 +5,7 @@ tags= ["post"]
 draft= false
 +++
 
-![[minding-slack-germanflores-2025-11-11.png]]
+![[/images/minding-slack-germanflores-2025-11-11.png]]
 
 Every organization has their own norms and levels or organization when using slack. Here are a few norms to help your organization.
 
