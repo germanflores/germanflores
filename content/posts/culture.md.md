@@ -24,3 +24,5 @@ Stan Slap brought a new way to think about company culture for me, a few ideas I
 * Introducing change to a culture requires explaining what isn't changing as much as what is.
 * Managers should set context, show a pattern, interrupt the narrative, and invite the pressure test to engage with the culture.
 * Declaring company values can be dangerous if those values are not genuinely held and protected.
+
+[Cedric, has a summary of Stan Slap Under The Hood book](https://commoncog.com/under-the-hood/), it's solid summary of the book. The summary lists paths/approaches to avoid regarding culture in an organization and what to do instead.
