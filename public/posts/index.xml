@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Germán Flores</copyright>
-    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slack Norms</title>
+      <link>http://localhost:1313/posts/2025/11/slack-norms/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/11/slack-norms/</guid>
+      <description>&lt;p&gt;![alt](/images/minding-slack-germanflores-2025-11-11.png]&lt;/p&gt;&#xA;&lt;p&gt;Every organization has their own norms and levels or organization when using slack. Here are a few norms to help your organization.&lt;/p&gt;&#xA;&lt;h2 id=&#34;norms-on-this-slack&#34;&gt;Norms on this Slack&lt;/h2&gt;&#xA;&lt;p&gt;Publish your slack norms (document similar to this post), in a canvas document in a main channel.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Before using &lt;code&gt;@here&lt;/code&gt; know how many people are in the channel, see if there&amp;rsquo;s a team/audience specific slack handle first instead of letting everyone&lt;/li&gt;&#xA;&lt;li&gt;Unfurled links take up a lot space, consider removing the unfurl while retaining the link&lt;/li&gt;&#xA;&lt;li&gt;Use the Slack channel naming conventions&lt;/li&gt;&#xA;&lt;li&gt;Make channels public, unless they need to be private&lt;/li&gt;&#xA;&lt;li&gt;Mind your slack, every quarter e.g., archive, leave channels&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;slack-map&#34;&gt;Slack Map&lt;/h2&gt;&#xA;&lt;p&gt;The slack map is meant to make people joining your slack become aware faster. Some areas that you could list:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/posts/2025/10/culture/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/10/culture/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/evanston-il-2025-04-28.jpeg&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://commoncog.com/stan-slap-effective-employee-cultures/&#34;&gt;Stan Slap on the Art of Building Effective Employee Cultures&lt;/a&gt; - Commonplace Expertise Podcast&lt;/p&gt;&#xA;&lt;p&gt;Until this podcast the most insightful articulation of company culture I have read was The Culture Code by Daniel Coyle, still a solid read.&lt;/p&gt;&#xA;&lt;p&gt;Stan Slap brought a new way to think about company culture for me, a few ideas I found interesting&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Quotes From Podcast&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;A culture, your culture, is an independent organism living right inside the enterprise with its own purpose and all the power to make or break any management plan.  Its purpose is to protect itself, not you, not the company. It will do all those things, but only if it perceives a reliable through line between what happens for the company and what happens for the culture.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Cultures just hate change. That is so unfair, so pejorative to a culture. A culture doesn&amp;rsquo;t hate change. A culture is focused on understanding the known rules of survival and emotional prosperity. What does any strategic or organizational change do? It screws with the known rules of survival and emotional prosperity.&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;[&amp;hellip;] And this is what I&amp;rsquo;m saying in the book is it&amp;rsquo;s like you&amp;rsquo;re stepping on the gas without checking to see if there&amp;rsquo;s any fuel in the tank, because anything you want new from your culture, start doing this, stop doing that, do more of this, less of that. Anything like that requires its discretionary energy and it&amp;rsquo;s using almost all of its energy already.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cross Team Collaboration</title>
+      <link>http://localhost:1313/posts/2025/06/cross-team-collaboration/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/06/cross-team-collaboration/</guid>
+      <description>&lt;p&gt;Premise: Your organization is trying to build and deliver new products to market, in this scenario, these are digital products. The problem is that they are not working well across departments, for reasons.&lt;/p&gt;&#xA;&lt;p&gt;What are some basics you could check/implement to ensure success?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tactics&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Audit documentation of meetings, artifacts, &amp;amp; processes&lt;/li&gt;&#xA;&lt;li&gt;RACI&lt;/li&gt;&#xA;&lt;li&gt;Decision-Making: DACI (including escalation paths)&lt;/li&gt;&#xA;&lt;li&gt;Shared definition of Ready/Done&lt;/li&gt;&#xA;&lt;li&gt;Weekly Cross-Functional Stand-ups&lt;/li&gt;&#xA;&lt;li&gt;Central place to track all project work&lt;/li&gt;&#xA;&lt;li&gt;Project manager assigned to initiative&lt;/li&gt;&#xA;&lt;li&gt;Product development coach to help product and marketing&lt;/li&gt;&#xA;&lt;li&gt;Joint workshops and training&lt;/li&gt;&#xA;&lt;li&gt;Joint Planning Sessions&lt;/li&gt;&#xA;&lt;li&gt;Clear communication channels&lt;/li&gt;&#xA;&lt;li&gt;Cross functional teams with specific goals/areas of ownership&lt;/li&gt;&#xA;&lt;li&gt;Feedback loops process/Regular Retrospectives&lt;/li&gt;&#xA;&lt;li&gt;Shared Success Metrics&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>kagi.com</title>
+      <link>http://localhost:1313/posts/2025/06/kagi.com/</link>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/06/kagi.com/</guid>
+      <description>&lt;p&gt;Your co-worker, friend, partner, person other random slack you are on: posts a link to an article, the title is enticing enough BUT you don’t want to commit to reading xyz long article, the ads on the page, etc.&lt;/p&gt;&#xA;&lt;p&gt;If you use kagi.com (paid search), you can use their summarizer service. Pass it a public URL (on mac/ios via tear sheet shortcut) and it will summarize the contents of any accessible url, it can also summarize youtube videos if there’s a transcript available.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Team Health Surveys</title>
       <link>http://localhost:1313/posts/2025/05/team-health-surveys/</link>

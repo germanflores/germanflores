@@ -33,8 +33,9 @@ The slack map is meant to make people joining your slack become aware faster. So
 * Use `proj-` for project channels
 * Use `temp-` for ephemeral conversations
 * Use `rdm-` for non-work fun channels
-* Use `team-` team public channels
-* Use `team-pvt-` for team private channels
+* Use `team-teamname` team public channels
+* Use `team-teamname-pvt-` for team private channels
+* * Use `incident-dd-mm-yyyy-incidentname-` for technology incidents
 * Use `-` dashes instead of `_` underscores to name channels
 
 Hat tip to Brett Bernstein for the additional naming conventions
